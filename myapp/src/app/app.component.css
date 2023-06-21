@@ -1,0 +1,125 @@
+
+body{
+    background-color: #85F4FF;
+}
+
+input{
+   
+    width:40%;
+    display: block;
+    margin:5% 0 10% 20%;
+    padding:1%;
+    border-radius: 20px;
+
+}
+
+.input2{
+    width:20%;
+    margin-left: 70%;
+    position: relative;
+    top: -100px;
+}
+
+.taketop{
+    position: relative;
+    top: -170px;
+    right: 200px;
+}
+
+.table{
+    font-family: 'Langar';
+    width: 60%;
+    margin-top:5%;
+    margin-left: 20%;
+    color:black;
+    border: 2px solid orangered;
+    border-radius: 100px;
+}
+
+th,td{
+    border-radius: 5px;
+}
+
+.btn1{
+    position: relative;
+    top:-50px;
+    left:50px;
+    border-radius: 20px;
+
+}
+
+.btn3{
+    position: relative;
+    top:-50px;
+    left:100px;
+    border-radius: 20px;
+
+}
+
+.thetweets{
+    border:2px solid chartreuse;
+    float: right;
+    position: relative;
+    top:-200px;
+    height:350px;
+    width: 350px;
+}
+
+.fish{
+   border-radius:50px ;
+}
+
+.prawns{
+    border-radius:50px ;
+    margin-left: 20px;
+    margin-right: 20px;
+    position: relative;
+   top:-50px;
+ }
+
+ .delete{
+    border-radius:50px ;
+    margin-left:20px;
+    position: relative;
+   z-index: 1;
+ }
+
+.itsthetweet{
+    padding:5%;
+    border:2px solid black;
+}
+
+.btn2{
+    margin-top:2%;
+    border-radius: 20px;
+}
+.thebutt{
+    text-align: center;
+}
+
+#thetweetandi{
+  font-family: 'Pacifico';
+}
+
+.lastdiv{
+    height: 400px;
+    background-color: #42C2FF;
+}
+.dropdown {
+    position: relative;
+    display: inline-block;
+  }
+  
+  .dropdown-content {
+    display: none;
+    position: absolute;
+    background-color: #f9f9f9;
+    min-width: 160px;
+    box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+    padding: 12px 16px;
+    z-index: 1;
+  }
+  
+  .dropdown:hover .dropdown-content {
+    display: block;
+  }
